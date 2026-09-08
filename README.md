@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Khaviso Vukeya
+Hi! 👋 I'm Khaviso Vukeya
 =======================================================================================================================================
 
-Software Developer
+Software Developer & Data Analyst
 ------------------
 
 I'm currently working with React, TypeScript, and JavaScript to craft scalable applications with clean intuitive UI. Skilled in leveraging data with Python, SQL, and Power BI to provide actionable insights.
