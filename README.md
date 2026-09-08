@@ -27,7 +27,3 @@ I'm currently working with React, TypeScript, and JavaScript to craft scalable a
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Khaviso01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaviso01&stroke=ffffff&background=7c2d12&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Khaviso01/khaviso-vukeya-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Khaviso01&repo=khaviso-vukeya-portfolio&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=7c2d12&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
