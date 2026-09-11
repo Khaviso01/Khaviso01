@@ -8,7 +8,7 @@ I'm currently working with React, TypeScript, and JavaScript to craft scalable a
 
 *   🌍  I'm based in Polokwane
 *   🖥️  See my portfolio at [My Portfolio](http://https://khaviso-vukeya-portfolio.vercel.app/)
-*   ✉️  You can contact me at [khavisovukeya3@gmail.com](mailto:khavisovukeya3@gmail.com) Or [+27 67 993 3441](tel:0679933441)
+*   ✉️  You can contact me at [khavisovukeya3@gmail.com](mailto:khavisovukeya3@gmail.com)
 *   🧠  I'm currently learning Node.js + PostGresSQL + Redux
 *   👥  I'm looking to collaborate on Web Solutions Projects & offer Web Services
 <p align="left">
