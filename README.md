@@ -7,7 +7,7 @@ Software Developer & Data Analyst
 I'm currently working with React, TypeScript, and JavaScript to craft scalable applications with clean intuitive UI. Skilled in leveraging data with Python, SQL, and Power BI to provide actionable insights.
 
 *   🌍  I'm based in Polokwane
-*   🖥️  See my portfolio at [My Portfolio](http://https://khaviso-vukeya-portfolio.vercel.app/)
+*   🖥️  See my portfolio at [My Portfolio](https://khaviso-vukeya-portfolio.vercel.app/)
 *   ✉️  You can contact me at [khavisovukeya3@gmail.com](mailto:khavisovukeya3@gmail.com)
 *   🧠  I'm currently learning Node.js + PostGresSQL + Redux + Backend practices
 *   👥  I'm looking to collaborate on Web Solutions Projects & offer Web Services
