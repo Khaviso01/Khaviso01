@@ -4,7 +4,7 @@ Hi! 👋 I'm Khaviso Vukeya
 Software Developer & Data Analyst
 ------------------
 
-I'm currently working with React, TypeScript, and JavaScript to craft scalable applications with clean intuitive UI. Skilled in leveraging data with Python, SQL, and Power BI to provide actionable insights.
+I'm currently working with React, TypeScript, Node.js and JavaScript to craft scalable applications with clean intuitive UI and Robust backend. Skilled in leveraging data with Python, SQL, and Power BI to provide actionable insights.
 
 *   🌍  I'm based in Polokwane
 *   🖥️  See my portfolio at [My Portfolio](https://khaviso-vukeya-portfolio.vercel.app/)
