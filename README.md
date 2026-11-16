@@ -19,8 +19,10 @@ Tech Stack
                   </p>
                   
 
-<b>My GitHub Stats</b>
+My GitHub Stats
+------------------
 
 <a href="http://www.github.com/Khaviso01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaviso01&stroke=ffffff&background=7c2d12&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Lets's connect!</b>
+Lets's connect!
+------------------
