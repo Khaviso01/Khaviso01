@@ -7,7 +7,7 @@ Full-Stack Developer | UI/UX Designer |  Data Analyst
 I'm a passionate Full-Stack Developer primarily working with React, TypeScript, Node.js and JavaScript to craft scalable applications with clean intuitive UI and Robust backend. Skilled in leveraging data with Python, SQL, and Power BI to provide actionable insights.
 
 * I'm based in Polokwane
-* See my portfolio at [My Portfolio](https://khaviso-vukeya-portfolio.vercel.app/)
+* See my [Portfolio](https://khaviso-vukeya-portfolio.vercel.app/)
 * You can contact me at [khavisovukeya3@gmail.com](mailto:khavisovukeya3@gmail.com)
 * I'm currently learning React Native (Expo) and building interactive mobile apps
 * I'm looking to collaborate on Web Solutions Projects & offer Web Services
