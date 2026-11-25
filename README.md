@@ -1,4 +1,4 @@
-# Hi, I'm Khaviso Vukeya 👋
+# Hi, I'm Khaviso Vukeya
 
 ### Full-Stack Developer | UI/UX Designer | Data Analyst
 
@@ -16,7 +16,7 @@ I enjoy solving real problems, exploring new technologies, and growing through h
 - **Currently Learning:** React Native (Expo), building interactive mobile apps
 - **Interests:** Full-Stack Development, UI/UX Design, Data Analysis
 - **Open To:** Collaborating on web solutions projects and offering web services
-- **Portfolio:** [khaviso-vukeya-portfolio.vercel.app](https://khaviso-vukeya-portfolio.vercel.app/)
+- **View** [Porfolio](https://khaviso-vukeya-portfolio.vercel.app/)
 - **Email:** [khavisovukeya3@gmail.com](mailto:khavisovukeya3@gmail.com)
 
 ---
