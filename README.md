@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer | UI/UX Designer | Data Analyst
 
-I'm a passionate full-stack developer based in Polokwane, South Africa, focused on building scalable applications with clean, intuitive interfaces and robust backends.
+I'm a passionate full-stack developer based in Polokwane, South Africa, focused on building scalable applications with clean, intuitive interfaces and robust backends. Currently, I'm working with **React, React Native(Expo), TypeScript, Node.js and JavaScript**,
 
-I primarily work with **React, TypeScript, Node.js and JavaScript**, and I use **Python, SQL and Power BI** to turn raw data into actionable insights.
+I use **Python, SQL and Power BI** to turn raw data into actionable insights.
 
 I enjoy solving real problems, exploring new technologies, and growing through hands-on projects.
 
